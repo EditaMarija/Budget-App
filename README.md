@@ -4,4 +4,4 @@
 Small JavaScript application to manage budget income and expenses
 
 ## Demo:
-editamarija.github.io/budgety/
+https://editamarija.github.io/Budgety/
