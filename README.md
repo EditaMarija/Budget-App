@@ -8,5 +8,5 @@ Small JavaScript application to manage budget income and expenses.
 
 A project part of the "Complete JavaScript Course" of Jonas Schmedtmann on Udemy.
 
-## Demo:
+#### Demo:
 https://editamarija.github.io/Budgety/
