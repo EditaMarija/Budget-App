@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   :money_with_wings: Budget App :money_with_wings:
-</h1>
+</h2>
 
 **Small JavaScript application to manage budget income and expenses.**  
 
